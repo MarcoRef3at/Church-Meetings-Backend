@@ -1,0 +1,37 @@
+[
+  {
+    "username": "super.admin",
+    "email": "super_admin@email.com",
+    "password": "123456",
+    "role": "superAdmin",
+    "isActive": true
+  },
+  {
+    "username": "admin.admin",
+    "email": "admin@email.com",
+    "password": "123456",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "username": "priest.priest",
+    "email": "priest@email.com",
+    "password": "123456",
+    "role": "priest",
+    "isActive": true
+  },
+  {
+    "username": "servant.servant",
+    "email": "servant@email.com",
+    "password": "123456",
+    "role": "servant",
+    "isActive": true
+  },
+  {
+    "username": "user.user",
+    "email": "user@email.com",
+    "password": "123456",
+    "role": "user",
+    "isActive": false
+  }
+]
